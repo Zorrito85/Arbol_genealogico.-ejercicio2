@@ -3,8 +3,8 @@ from Kate import Kate
 from Carlos import Carlos
 from Diana import Diana
 
-Carlos.casar_con(Diana)
-Guillermo.casar_con(Kate)
+Carlos.casar(Diana)
+Guillermo.casar(Kate)
 
 print('Familia')
 print(f'{Carlos}esta casado con{Guillermo.conyuge}') 
